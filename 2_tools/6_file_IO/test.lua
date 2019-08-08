@@ -1,0 +1,2 @@
+--这是test文件第一行
+--  test.lua 文件末尾注释--  test.lua 文件末尾注释--test--  test.lua 文件末尾注释--test
